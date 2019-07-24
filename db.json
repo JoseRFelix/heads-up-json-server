@@ -15,6 +15,40 @@
         "Alex Morgan",
         "Tom Brady"
       ]
+    },
+    {
+      "id": 2,
+      "artistas": [
+        "Adele",
+        "Bad Bunny",
+        "Anuel AA",
+        "Luis Miguel",
+        "Ariana Grande",
+        "Justin Bieber",
+        "Ed Sheeran",
+        "Farruko",
+        "Maroon 5",
+        "Charlie Puth",
+        "Tyga",
+        "Beyoncé"
+      ]
+    },
+    {
+      "id": 3,
+      "actores/actrices": [
+        "Robert Downey Jr",
+        "Chris Evans",
+        "Chris Hermsworth",
+        "Morgan Freeman",
+        "Leonardo Di Caprio",
+        "Angelina Jolie",
+        "Brad Pitt",
+        "Will Smith",
+        "Johnny Deep",
+        "Vin Diesel",
+        "Jackie Chan",
+        "Jim Carrey"
+      ]
     }
   ]
 }
