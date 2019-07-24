@@ -2,7 +2,8 @@
   "categories": [
     {
       "id": 1,
-      "deportistas": [
+      "categoryName": "Deportistas",
+      "categoryContent": [
         "Lionel Messi",
         "Cristiano Ronaldo",
         "LeBron James",
@@ -18,7 +19,8 @@
     },
     {
       "id": 2,
-      "artistas": [
+      "categoryName": "Artistas",
+      "categoryContent": [
         "Adele",
         "Bad Bunny",
         "Anuel AA",
@@ -35,7 +37,8 @@
     },
     {
       "id": 3,
-      "actores/actrices": [
+      "categoryName": "Actores/Actrices",
+      "categoryContent": [
         "Robert Downey Jr",
         "Chris Evans",
         "Chris Hermsworth",
