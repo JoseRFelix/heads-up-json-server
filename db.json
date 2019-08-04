@@ -3,6 +3,7 @@
     {
       "id": 1,
       "categoryName": "Deportistas",
+      "imageURL": "https://i.ibb.co/9HM0MZx/deportistas.png",
       "categoryContent": [
         "Lionel Messi",
         "Cristiano Ronaldo",
@@ -20,6 +21,7 @@
     {
       "id": 2,
       "categoryName": "Artistas",
+      "imageURL": "https://i.ibb.co/XDSSLHT/cantantes.png",
       "categoryContent": [
         "Adele",
         "Bad Bunny",
@@ -38,6 +40,7 @@
     {
       "id": 3,
       "categoryName": "Actores/Actrices",
+      "imageURL": "https://i.ibb.co/tJLnrM1/Actores.png",
       "categoryContent": [
         "Robert Downey Jr",
         "Chris Evans",
